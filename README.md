@@ -20,6 +20,8 @@
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/36890cf7-59a2-4706-9188-8e2a086a2018)
 
+![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/4b92908e-1d41-42fa-a76f-4f7a17f27e0a)
+
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/d23d45f3-c06f-4310-93d4-ae4f11d73a02)
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/4a1f8fdf-ec79-4f6b-aa5d-d81c3e448857)
