@@ -12,7 +12,13 @@
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/3be82683-d7c4-4f78-98f5-ec2f177198ea)
 
-## Main Demo Flow ---> RETAIL_ORDER Snowflake Table
+## Main Demo Flow: Metric --> RETAIL_ORDER Snowflake Table
+
+![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/3dfffaf1-a838-4cce-a7da-c3bec0cd05e4)
+
+![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/71652150-c5bf-4270-ae82-85436d1d4665)
+
+![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/509833d3-ff22-43ea-ac51-97fd61425eec)
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/a6da65da-a3b5-4d8c-807c-eae38eaadebe)
 
