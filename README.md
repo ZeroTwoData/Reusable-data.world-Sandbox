@@ -12,7 +12,7 @@
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/3be82683-d7c4-4f78-98f5-ec2f177198ea)
 
-## RETAIL_ORDER Snowflake Table
+## Main Demo Flow ---> RETAIL_ORDER Snowflake Table
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/a6da65da-a3b5-4d8c-807c-eae38eaadebe)
 
