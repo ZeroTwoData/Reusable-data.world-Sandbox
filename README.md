@@ -38,7 +38,7 @@
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/5666d4e1-387a-45ba-bd02-83da8306e63c)
 
-## Loaded in data sources with data.world's integrations (via Docker)
+## Loaded in data sources with data.world's integrations (via Docker) Guide (https://implementation.data.world/docs/collect-metadata-using-dwcc-1)
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/c7452175-6a52-47f2-847c-c19aa8d7743d)
 
