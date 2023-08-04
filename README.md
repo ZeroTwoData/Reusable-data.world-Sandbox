@@ -38,6 +38,10 @@
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/5666d4e1-387a-45ba-bd02-83da8306e63c)
 
+## Loaded in data sources with data.world's integrations (via Docker)
+
+![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/c7452175-6a52-47f2-847c-c19aa8d7743d)
+
 ## Sandbox Kept Up to Date By Accepting JIRA Tickets from Sales Engineers and other Departments that utilize the Sandbox
 
 ![image](https://github.com/ZeroTwoData/Reusable-data.world-Sandbox/assets/74563990/4f438066-47d1-4bca-8729-23a032345c41)
