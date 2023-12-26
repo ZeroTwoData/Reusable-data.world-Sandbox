@@ -1,6 +1,9 @@
 # Reusable-data.world-Sandbox
 
 ## What is a Data Catalog?:
+A data catalog is a centralized inventory or repository that provides metadata and information about the data assets within an organization. It serves as a comprehensive and organized index, allowing users to discover, understand, and effectively utilize available data resources. The primary purpose of a data catalog is to improve data management, accessibility, and collaboration within an organization.
+
+## Data.World
 
 1. **Collaborative Data Platform:**
    - **Purpose:** data.world aims to be a central hub for data collaboration, where users can work together on various aspects of data projects.
