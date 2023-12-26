@@ -1,39 +1,9 @@
 # Reusable-data.world-Sandbox
 
 ## What is a Data Catalog?:
-A data catalog is a centralized inventory or repository that provides metadata and information about the data assets within an organization. It serves as a comprehensive and organized index, allowing users to discover, understand, and effectively utilize available data resources. The primary purpose of a data catalog is to improve data management, accessibility, and collaboration within an organization.
+A data catalog is a centralized inventory or repository that provides metadata and information about the data assets (tables, metrics, KPI's, etc.) within an organization. It serves as a comprehensive and organized index, allowing users to discover, understand, and effectively utilize available data resources. The primary purpose of a data catalog is to improve data management, accessibility, and collaboration within an organization.
 
-## Data.World
-
-1. **Collaborative Data Platform:**
-   - **Purpose:** data.world aims to be a central hub for data collaboration, where users can work together on various aspects of data projects.
-   - **Features:** The platform offers tools for data discovery, storage, and collaboration, fostering a community of data enthusiasts, analysts, and professionals.
-
-2. **Data Discovery and Cataloging:**
-   - **Cataloging:** Users can upload and catalog datasets, making it easier for others to discover and reuse existing data resources.
-   - **Metadata:** Metadata management is a key feature, allowing users to provide context, descriptions, and annotations to enhance understanding.
-
-3. **Data Integration:**
-   - **Connectivity:** Users can integrate data from various sources, enabling a comprehensive and unified view of information.
-   - **APIs:** The platform may provide APIs for developers to build custom integrations and applications.
-
-4. **Collaboration and Social Features:**
-   - **Community:** data.world fosters a collaborative community, allowing users to connect, share insights, and work together on projects.
-   - **Comments and Discussions:** Users can comment on datasets, ask questions, and engage in discussions to facilitate knowledge sharing.
-
-5. **Project Management:**
-   - **Workspaces:** Users can create workspaces for projects, enabling organized collaboration with team members.
-   - **Version Control:** Some version control features may be available to track changes and updates to datasets.
-
-6. **Analytics and Visualization:**
-   - **Analysis Tools:** Users may have access to built-in or integrated analytics tools to explore and analyze data.
-   - **Visualization:** The platform may support data visualization tools for creating charts, graphs, and dashboards.
-
-7. **Access Control and Security:**
-   - **Permissions:** Users can set permissions to control who can access and modify datasets, ensuring data security and integrity.
-   - **Authentication:** Secure user authentication methods are likely implemented to protect sensitive data.
-
-# Benefits of data.world:
+## Benefits of data.world:
 
 1. **Collaborative Environment:**
    - data.world encourages collaboration among individuals and teams, fostering a sense of community in the data space.
